@@ -1,0 +1,4 @@
+# API Endpoints Found
+
+- https://www.youtube.com/iframe_api
+- https://www.google.com/ccm/geo
